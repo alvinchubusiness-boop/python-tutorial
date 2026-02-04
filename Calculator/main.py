@@ -20,7 +20,7 @@ subtraction = first_number - second_number
 multiplication = first_number * second_number
 division = first_number / second_number
 
-print(sum)
-print(subtraction)
-print(multiplication)
-print(division)
+print("The sum is:", sum)
+print("The difference is:", subtraction)
+print("The product is:", multiplication)
+print("The quotient is:", division)
