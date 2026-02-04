@@ -3,4 +3,4 @@ end_year = int(input("Enter the current year: "))
 
 age = end_year - start_year
 
-print(age)
+print("The calculated age is:", age)
