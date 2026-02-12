@@ -32,7 +32,7 @@ def view_entries(filename: str) -> None:
             if not content:
                 print("No entries found yet.")
             else:
-                print("\n📖 Your Diary Entries")
+                print("\nYour Diary Entries")
                 print("=" * 40)
                 print(content)
                 print("=" * 40)
