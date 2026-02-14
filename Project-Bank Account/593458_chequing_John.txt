@@ -1,0 +1,8 @@
+=== Account Created: 2026-02-13 21:12:50 ===
+Name: John
+Type: chequing
+AccountNumber: 593458
+Initial Balance: 0.00
+--------------------------------------
+2026-02-13 21:12:50 | DEPOSIT  | +200.00 | BAL=200.00
+2026-02-13 21:12:50 | WITHDRAW | -50.00 | BAL=150.00

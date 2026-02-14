@@ -1,0 +1,8 @@
+=== Account Created: 2026-02-13 21:12:50 ===
+Name: Amy
+Type: savings
+AccountNumber: 326997
+Initial Balance: 100.00
+--------------------------------------
+2026-02-13 21:12:50 | WITHDRAW | -30.00 | BAL=70.00
+2026-02-13 21:12:50 | WITHDRAW | FAILED (Insufficient funds) | TRY=5000.00 | BAL=70.00
